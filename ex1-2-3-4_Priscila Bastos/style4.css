@@ -1,0 +1,66 @@
+ #corpo {
+     background-image: url(white-concrete-wall.jpg);
+     background-image: url(95744.jpg);
+     background-size: 510pt;
+
+
+
+ }
+
+#video{
+    margin: 0 auto;
+    display: block;
+}
+
+ iframe {
+    display: block;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-style: inset;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    
+    }
+
+ #titulo {
+     text-align: center;
+     text-decoration: underline;
+     font-size: 40px;
+     color: rgb(248, 8, 8);
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-style: bold;
+     text-shadow: 5px 5px 10px green
+ }
+
+ #t1{
+    text-align: center;
+    text-indent: 5px;
+    color: blue;
+    text-decoration: underline;
+
+ }
+
+ #t2{
+    letter-spacing: 2px;
+    text-align: center;
+    color: blue;
+ }
+
+ p {
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     color: darkgreen;
+     text-align: justify;
+     text-shadow: 1px 1px 1px black;
+     
+ }
+ 
+ #link {
+    font-size: 23px;
+    text-align: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ 

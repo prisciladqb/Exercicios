@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(241, 241, 189, 0.918);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+    font-size: 26px;
+    color:darkred;
+    background: 15px goldenrod;
+    
+}
+
+h2 {
+    font-size: 20px;
+    color: darkred;
+}
+
+p{
+    font-weight: lighter;
+}
+
+#hiperlig {
+    text-align: right;
+}
+
+#hiperlig2 {
+    text-align: left;
+}
